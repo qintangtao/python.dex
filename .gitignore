@@ -1,0 +1,12 @@
+*.pyc
+*~
+.DS_Store
+env.zsh
+#*#
+MANIFEST
+dist
+*.ipr
+*.iml
+*.iws
+build
+.idea*
